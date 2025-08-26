@@ -31,6 +31,7 @@ the morning cafe website is designed to represent a modern coffee shop that valu
 - v1.2: Implemented enquiry form with JavaScript success message.  
 - v1.3: Updated contact page with café contact details and form.  
 - *v1.4: Added footer with location, email, phone, and social media links.
+  
 ##References
 Venter, C. (2023). Domain Names & Website Hosting Answered - Domains.co.za. [online] Domains.co.za Blog. Available at: https://www.domains.co.za/blog/domain-names-amp-website-hosting-answered/ [Accessed 14 Aug. 2025]. 
 
